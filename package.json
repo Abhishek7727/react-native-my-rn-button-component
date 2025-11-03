@@ -1,6 +1,6 @@
 {
   "name": "react-native-my-rn-button-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this is just for practice",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -32,7 +32,6 @@
     "!**/.*"
   ],
   "scripts": {
-    
     "example:android": "npm run android --workspace=react-native-my-rn-button-component-example",
     "example": "npm run start --workspace=react-native-my-rn-button-component-example",
     "test": "jest",
